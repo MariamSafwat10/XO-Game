@@ -1,0 +1,5 @@
+com\mycompany\xo\game\XOGame.class
+com\mycompany\xo\game\BInterface.class
+com\mycompany\xo\game\Board.class
+com\mycompany\xo\game\Player.class
+com\mycompany\xo\game\Game.class
